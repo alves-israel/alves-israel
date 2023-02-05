@@ -5,5 +5,3 @@
 
 
 
-<h1 border="20px">Contatos:</h1>
- <a href="www.linkedin.com/in/israelmass"><img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" weight="50" height="50"/>
